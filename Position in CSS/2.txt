@@ -1,0 +1,11 @@
+Relative positioning: 
+--Places an element relative to its current position
+--Does not change the layout around it
+--Is relative to the element's normal position
+--Uses the top, right, bottom, and left attributes 
+
+Absolute positioning: 
+--Places an element relative to its parent's position
+--Changes the layout around it
+--Is relative to the first positioned parent
+--Is relative to the position of another, enclosing element
